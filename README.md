@@ -88,6 +88,22 @@ Running the training script creates:
 - `plots/correlation_heatmap.png`
 - `plots/actual_vs_predicted.png`
 - `plots/feature_importance.png` — Random Forest feature importance for interpretation, not a claim that Random Forest is the best predictor.
+- ## Visualizations
+
+### 1. Price Distribution
+![Price Distribution](price_distribution.png)
+
+### 2. Actual vs Predicted
+![Actual vs Predicted](actual_vs_predicted.png)
+
+### 3. Area vs Price
+![Area vs Price](area_vs_price.png)
+
+### 4. Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### 5. Feature Importance
+![Feature Importance](feature_importance.png)
 
 ## Metrics
 
